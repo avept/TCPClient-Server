@@ -25,7 +25,7 @@ https://github.com/avept/TCPClient-Server.git
 
 2. Navigate to the project directory:
 ```bash 
-cd TCPClient/Server
+cd TCPClient-Server
 ```
 
 3. Create a build directory:
